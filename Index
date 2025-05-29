@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Business Home</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>Your Business</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Welcome to Our Business</h2>
+      <p>Your solution for [insert your service].</p>
+    </section>
+
+    <section class="gallery">
+      <h2>Gallery</h2>
+      <div class="gallery-grid">
+        <img src="images/image1.jpg" alt="Example 1" />
+        <img src="images/image2.jpg" alt="Example 2" />
+        <!-- Add more images -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Your Business</p>
+  </footer>
+</body>
+</html>
